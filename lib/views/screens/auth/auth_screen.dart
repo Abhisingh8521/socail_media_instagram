@@ -18,7 +18,7 @@ class AuthScreen extends StatelessWidget {
               const SizedBox(height: 20),
               const CircleAvatar(
                 radius: 40,
-                backgroundImage: AssetImage('assets/user_avatar.png'), // Add your user's avatar image here
+                backgroundImage: AssetImage('assets/user_avatar.png'),
               ),
               const SizedBox(height: 10),
               const Text(
